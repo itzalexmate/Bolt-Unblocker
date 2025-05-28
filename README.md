@@ -14,6 +14,7 @@
 - Powerful site support
 - Flexible cloaking
 - Tons of games (powered by Spark Games!!)
+- Over 500MB of Upload speed!!
 
 
 <h1>
